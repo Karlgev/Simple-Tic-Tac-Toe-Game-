@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game with AI
+# Tic-Tac-Toe Game with AI :heart: :star: :rocket:
 
 This is a unique implementation of the classic Tic-Tac-Toe game using Python. The main idea behind this project is to create a challenging version of Tic-Tac-Toe where it is impossible for the player to win. 
 
@@ -8,13 +8,15 @@ This is a unique implementation of the classic Tic-Tac-Toe game using Python. Th
 
 - **Game Logic**: The code tracks the status of each position on the game board using a dictionary and handles player clicks, checking for wins, draws, and player strategies.
 
-## Main Concept
+## Main Concept :thought_balloon:
 
 The core concept behind this game is to make it impossible for the player to win. The AI always starts the game, and it selects the center position. This means that no matter how you play, you cannot beat the AI. In this implementation, it's not about winning but about the challenge of attempting to achieve a draw. 
 
 In the future, the project aims to expand the concept to create larger game boards, such as a 9x9 grid, where the AI remains unbeatable. 
 
-## Features
+![Diagram](https://github.com/Karlgev/Tic-Tac-Toe-Game-with-AI/blob/main/diagram/Tic_Tac_Toe2.drawio%20(1).png)
+
+## Features :gear:
 
 **AI Opponent**: The AI opponent always starts first in the bottom left corner. The player takes turns to click on empty positions to place their 'O'.
 
@@ -32,7 +34,7 @@ In the future, the project aims to expand the concept to create larger game boar
 
 - **Code Comments**: The code is well-documented with comments explaining logic and functionality.
 
-## How to Play
+## How to Play :video_game:
 
 1. The AI opponent ('X') will make the first move in the bottom left corner.
 
@@ -42,18 +44,24 @@ In the future, the project aims to expand the concept to create larger game boar
 
 4. Enjoy the game!
 
-## Future Development
+## Future Development :rocket:
 
 In future iterations, the project aims to expand the game to feature larger game boards that remain unbeatable for the player. The ultimate challenge will be to achieve a draw on these larger boards, which presents a unique and intriguing problem.
 
-## Prerequisites
+## Prerequisites :memo:
 
 - Python 3
 - Tkinter library (usually included with Python)
 
-## Usage
+## Usage :computer:
 
 1. Clone the repository:
+
+2. Run the game:
+
+3. Play and have fun! Your goal is to either beat the AI or achieve a draw.
+
+Enjoy the game! :heart: :star: :rocket:
 
 2. Run the game:
 
